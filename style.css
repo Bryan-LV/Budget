@@ -1,0 +1,12 @@
+.wrapper{
+	max-width:700px;
+}
+
+#submitBtn{
+	display:block;
+}
+
+.output{
+	font-size: 25px;
+	padding:8px;
+}
